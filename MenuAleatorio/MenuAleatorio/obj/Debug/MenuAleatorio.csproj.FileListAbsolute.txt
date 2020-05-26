@@ -1,0 +1,9 @@
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\bin\Debug\MenuAleatorio.exe.config
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\bin\Debug\MenuAleatorio.exe
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\bin\Debug\MenuAleatorio.pdb
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\obj\Debug\MenuAleatorio.csprojResolveAssemblyReference.cache
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\obj\Debug\MenuAleatorio.Properties.Resources.resources
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\obj\Debug\MenuAleatorio.csproj.GenerateResource.Cache
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\obj\Debug\MenuAleatorio.exe
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\obj\Debug\MenuAleatorio.pdb
+c:\users\srj\documents\visual studio 2012\Projects\MenuAleatorio\MenuAleatorio\obj\Debug\MenuAleatorio.frmMenuAleatorio.resources
